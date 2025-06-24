@@ -1,0 +1,39 @@
+@model List<MedicalDeviceTracking.Models.HospitalGroup>
+
+@{
+    var groupColors = new Dictionary<string, string>
+    {
+        { "A", "#598dba" },
+        { "B", "#598dba" },
+        { "C", "#598dba" },
+        { "D", "#598dba" },
+        { "E", "#598dba" },
+        { "ADSH", "#598dba" }
+    };
+}
+
+<div class="list-group" id="sidebarAccordion" style="
+    position: sticky;
+    height: 50vh;
+    
+">
+    @foreach (var group in Model)
+    {
+        var collapseId = $"collapse_{group.GroupCode}";
+        
+        <a class="list-group-item list-group-item-action d-flex justify-content-between align-items-center group-header"
+           data-bs-toggle="collapse" href="#@collapseId" role="button" aria-expanded="false" aria-controls="@collapseId"
+           style="background-color:@(groupColors.ContainsKey(group.GroupCode) ? groupColors[group.GroupCode] : "#6bbaff"); color: white;">
+            @group.GroupCode Grubu
+        </a>
+
+        <div class="collapse" id="@collapseId" data-bs-parent="#sidebarAccordion">
+            @foreach (var hospital in group.Hospitals)
+            {
+                <a href="#" class="list-group-item list-group-item-action ps-4">
+                    @hospital.Name
+                </a>
+            }
+        </div>
+    }
+</div>

@@ -1,0 +1,58 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+header {
+  background-color: #1a3f73;
+  color: white;
+  padding: 1rem;
+}
+
+footer {
+  background-color: #1a3f73;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+a.nav-link {
+  color: white !important;
+}
+
+a.nav-link:hover {
+  color: #6bbaff !important;
+}
+
+aside {
+  width: 250px;
+  background: white;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+  overflow-y: auto;
+  /* artık flex container yani content-wrapper’ın yüksekliğini doldurur */
+}
+
+main {
+  padding: 1rem;
+  background-color: #f4f4f4;
+  min-height: calc(100vh - 120px); /* header + footer yüksekliği kadar */
+}
+
+.fixed-bottom {
+  z-index: 1030;
+}
+
+.content-wrapper {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+  margin-bottom: 60px; /* footer yüksekliğin kadar boşluk bırak */
+}

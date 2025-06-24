@@ -1,0 +1,284 @@
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\bin\Debug\net9.0\appsettings.Development.json
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\bin\Debug\net9.0\appsettings.json
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.staticwebassets.runtime.json
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.staticwebassets.endpoints.json
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.exe
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.deps.json
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.runtimeconfig.json
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.dll
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.pdb
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.AssemblyInfoInputs.cache
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.AssemblyInfo.cs
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.RazorAssemblyInfo.cache
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.RazorAssemblyInfo.cs
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\scopedcss\bundle\MedicalDeviceTracking.styles.css
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\scopedcss\projectbundle\MedicalDeviceTracking.bundle.scp.css
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\1ahzbw1jwi-b9sayid5wm.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\uuruy5k2w2-61n19gt1b8.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\bd7ladbq9h-xtxxf3hu2r.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\b73it7pvp7-bqjiyaj88i.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\b7w3as3zpe-c2jlpeoesf.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\t13g5ao59q-erw9l3u2r3.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\j358i82jet-aexeepp0ev.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\i89k1icydm-d7shbmvgxk.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\0kwkrh45v2-ausgxo2sd3.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\ygq9mjpkou-k8d9w2qqmf.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\b1mlg7ija8-cosvhxvwiu.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\qha2mjajqy-ub07r2b239.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\pl35mvpw7q-fvhpjtyr6v.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\1u1gwbqltf-b7pk76d08c.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kg524l5c2y-fsbi9cje9m.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\2tyiwqp2m6-rzd6atqjts.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\e9328rhqsf-ee0r1s7dh0.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\4qlyz0uerm-dxx9fxp4il.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\zyp6ubxdps-jd9uben2k1.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\0lomcmyymk-khv3u5hwcm.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\3wxxur09s4-r4e9w2rdcm.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\fisbiblvwq-lcd1t2u6c8.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\szbc52cd3t-c2oey78nd0.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\9tti3mt2ur-tdbxkamptv.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\j7tg5ecmmd-j5mq2jizvt.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\mw80ulgvvo-06098lyss8.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\dud2her0ja-nvvlpmu67g.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\owsb80zc2l-s35ty4nyc5.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\knax3xm6hg-pj5nd1wqec.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\xd729upphj-46ein0sx1k.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\ugdwaej7oj-v0zj4ognzu.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\d2tx56zq9b-37tfw0ft22.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\r2mpwvgsv4-hrwsygsryq.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\m31zy74qkx-pk9g2wxc8p.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\7u614xyhf1-ft3s53vfgj.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\uxlit0rdj3-6cfz1n2cew.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\byuds1xprm-6pdc2jztkx.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\2q57zmcza6-493y06b0oq.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kzmjorcstm-iovd86k7lj.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\9cq1ivmhe1-vr1egmr9el.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\bief2328zt-kbrnm935zg.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\2dx77x366g-jj8uyg4cgr.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\k3bbil0sh3-y7v9cxd14o.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\y8bdvwq9ze-notf2xhcfb.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\28qtlicvrn-h1s4sie4z3.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\5i0uokjbdi-63fj8s7r0e.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\sznxjwc3g0-0j3bgjxly4.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\x4543kuvx4-47otxtyo56.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kz7y1tj28f-4v8eqarkd7.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\l7x8p33djg-356vix0kms.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\zlyimf211a-83jwlth58m.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kbud34lvx9-mrlpezrjn3.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\e0zpc72c82-lzl9nlhx6b.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\plxptxnftt-ag7o75518u.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\7ndsty0rwa-x0q3zqp4vz.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\fyq0sqof49-0i3buxo5is.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kjm73tpixw-o1o13a6vjx.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\id81uxbtn9-ttgo8qnofa.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\x8riqi6j9k-2z0ns9nrw6.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\1cz6yjcmkn-muycvpuwrr.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\gpc92iml3o-87fc7y1x7t.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\7cpv03p382-mlv21k5csn.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\5amkvl0gds-mq5sqpqo43.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\compressed\9gffna0mws-mq5sqpqo43.gz
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.build.json
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.development.json
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.dll
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\refint\MedicalDeviceTracking.dll
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.pdb
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.genruntimeconfig.cache
+D:\Documents\Desktop\HTML-CSS-JS\MedicalDeviceTracking\obj\Debug\net9.0\ref\MedicalDeviceTracking.dll
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\bin\Debug\net9.0\appsettings.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.staticwebassets.runtime.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.staticwebassets.endpoints.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.exe
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.deps.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.runtimeconfig.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.dll
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.pdb
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.AssemblyInfoInputs.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.AssemblyInfo.cs
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.csproj.CoreCompileInputs.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.RazorAssemblyInfo.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.RazorAssemblyInfo.cs
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\scopedcss\bundle\MedicalDeviceTracking.styles.css
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\scopedcss\projectbundle\MedicalDeviceTracking.bundle.scp.css
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\1ahzbw1jwi-b9q93sutl6.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\uuruy5k2w2-61n19gt1b8.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\bd7ladbq9h-xtxxf3hu2r.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\b73it7pvp7-bqjiyaj88i.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\b7w3as3zpe-c2jlpeoesf.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\t13g5ao59q-erw9l3u2r3.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\j358i82jet-aexeepp0ev.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\i89k1icydm-d7shbmvgxk.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\0kwkrh45v2-ausgxo2sd3.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\ygq9mjpkou-k8d9w2qqmf.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\b1mlg7ija8-cosvhxvwiu.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\qha2mjajqy-ub07r2b239.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\pl35mvpw7q-fvhpjtyr6v.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\1u1gwbqltf-b7pk76d08c.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kg524l5c2y-fsbi9cje9m.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\2tyiwqp2m6-rzd6atqjts.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\e9328rhqsf-ee0r1s7dh0.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\4qlyz0uerm-dxx9fxp4il.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\zyp6ubxdps-jd9uben2k1.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\0lomcmyymk-khv3u5hwcm.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\3wxxur09s4-r4e9w2rdcm.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\fisbiblvwq-lcd1t2u6c8.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\szbc52cd3t-c2oey78nd0.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\9tti3mt2ur-tdbxkamptv.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\j7tg5ecmmd-j5mq2jizvt.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\mw80ulgvvo-06098lyss8.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\dud2her0ja-nvvlpmu67g.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\owsb80zc2l-s35ty4nyc5.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\knax3xm6hg-pj5nd1wqec.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\xd729upphj-46ein0sx1k.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\ugdwaej7oj-v0zj4ognzu.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\d2tx56zq9b-37tfw0ft22.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\r2mpwvgsv4-hrwsygsryq.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\m31zy74qkx-pk9g2wxc8p.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\7u614xyhf1-ft3s53vfgj.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\uxlit0rdj3-6cfz1n2cew.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\byuds1xprm-6pdc2jztkx.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\2q57zmcza6-493y06b0oq.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kzmjorcstm-iovd86k7lj.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\9cq1ivmhe1-vr1egmr9el.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\bief2328zt-kbrnm935zg.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\2dx77x366g-jj8uyg4cgr.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\k3bbil0sh3-y7v9cxd14o.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\y8bdvwq9ze-notf2xhcfb.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\28qtlicvrn-h1s4sie4z3.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\5i0uokjbdi-63fj8s7r0e.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\sznxjwc3g0-0j3bgjxly4.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\x4543kuvx4-47otxtyo56.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kz7y1tj28f-4v8eqarkd7.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\l7x8p33djg-356vix0kms.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\zlyimf211a-83jwlth58m.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kbud34lvx9-mrlpezrjn3.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\e0zpc72c82-lzl9nlhx6b.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\plxptxnftt-ag7o75518u.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\7ndsty0rwa-x0q3zqp4vz.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\fyq0sqof49-0i3buxo5is.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kjm73tpixw-o1o13a6vjx.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\id81uxbtn9-ttgo8qnofa.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\x8riqi6j9k-2z0ns9nrw6.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\1cz6yjcmkn-muycvpuwrr.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\gpc92iml3o-87fc7y1x7t.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\7cpv03p382-mlv21k5csn.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\5amkvl0gds-mq5sqpqo43.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\compressed\9gffna0mws-mq5sqpqo43.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.dll
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\refint\MedicalDeviceTracking.dll
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.pdb
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.genruntimeconfig.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\MedicalDeviceTracking\obj\Debug\net9.0\ref\MedicalDeviceTracking.dll
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\bin\Debug\net9.0\appsettings.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.staticwebassets.runtime.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.staticwebassets.endpoints.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.exe
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.deps.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.runtimeconfig.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.dll
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\bin\Debug\net9.0\MedicalDeviceTracking.pdb
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.AssemblyInfoInputs.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.AssemblyInfo.cs
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.csproj.CoreCompileInputs.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.RazorAssemblyInfo.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.RazorAssemblyInfo.cs
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\scopedcss\bundle\MedicalDeviceTracking.styles.css
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\scopedcss\projectbundle\MedicalDeviceTracking.bundle.scp.css
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\1ahzbw1jwi-ewgxdu3ejj.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\uuruy5k2w2-61n19gt1b8.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\bd7ladbq9h-xtxxf3hu2r.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\b73it7pvp7-bqjiyaj88i.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\b7w3as3zpe-c2jlpeoesf.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\t13g5ao59q-erw9l3u2r3.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\j358i82jet-aexeepp0ev.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\i89k1icydm-d7shbmvgxk.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\0kwkrh45v2-ausgxo2sd3.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\ygq9mjpkou-k8d9w2qqmf.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\b1mlg7ija8-cosvhxvwiu.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\qha2mjajqy-ub07r2b239.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\pl35mvpw7q-fvhpjtyr6v.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\1u1gwbqltf-b7pk76d08c.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kg524l5c2y-fsbi9cje9m.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\2tyiwqp2m6-rzd6atqjts.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\e9328rhqsf-ee0r1s7dh0.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\4qlyz0uerm-dxx9fxp4il.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\zyp6ubxdps-jd9uben2k1.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\0lomcmyymk-khv3u5hwcm.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\3wxxur09s4-r4e9w2rdcm.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\fisbiblvwq-lcd1t2u6c8.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\szbc52cd3t-c2oey78nd0.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\9tti3mt2ur-tdbxkamptv.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\j7tg5ecmmd-j5mq2jizvt.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\mw80ulgvvo-06098lyss8.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\dud2her0ja-nvvlpmu67g.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\owsb80zc2l-s35ty4nyc5.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\knax3xm6hg-pj5nd1wqec.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\xd729upphj-46ein0sx1k.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\ugdwaej7oj-v0zj4ognzu.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\d2tx56zq9b-37tfw0ft22.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\r2mpwvgsv4-hrwsygsryq.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\m31zy74qkx-pk9g2wxc8p.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\7u614xyhf1-ft3s53vfgj.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\uxlit0rdj3-6cfz1n2cew.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\byuds1xprm-6pdc2jztkx.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\2q57zmcza6-493y06b0oq.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kzmjorcstm-iovd86k7lj.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\9cq1ivmhe1-vr1egmr9el.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\bief2328zt-kbrnm935zg.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\2dx77x366g-jj8uyg4cgr.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\k3bbil0sh3-y7v9cxd14o.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\y8bdvwq9ze-notf2xhcfb.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\28qtlicvrn-h1s4sie4z3.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\5i0uokjbdi-63fj8s7r0e.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\sznxjwc3g0-0j3bgjxly4.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\x4543kuvx4-47otxtyo56.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kz7y1tj28f-4v8eqarkd7.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\l7x8p33djg-356vix0kms.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\zlyimf211a-83jwlth58m.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kbud34lvx9-mrlpezrjn3.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\e0zpc72c82-lzl9nlhx6b.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\plxptxnftt-ag7o75518u.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\7ndsty0rwa-x0q3zqp4vz.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\fyq0sqof49-0i3buxo5is.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\kjm73tpixw-o1o13a6vjx.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\id81uxbtn9-ttgo8qnofa.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\x8riqi6j9k-2z0ns9nrw6.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\1cz6yjcmkn-muycvpuwrr.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\gpc92iml3o-87fc7y1x7t.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\7cpv03p382-mlv21k5csn.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\5amkvl0gds-mq5sqpqo43.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\compressed\9gffna0mws-mq5sqpqo43.gz
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.dll
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\refint\MedicalDeviceTracking.dll
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.pdb
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\MedicalDeviceTracking.genruntimeconfig.cache
+C:\Users\Durmus BALCI\OneDrive\Desktop\Projelerim\MedicalDeviceTracking\obj\Debug\net9.0\ref\MedicalDeviceTracking.dll
