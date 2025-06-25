@@ -1,0 +1,28 @@
+@model List<MedicalDeviceTracking.Controllers.DeviceRequest>
+
+<h2>Cihaz Arama Sonuçları</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning">Sonuç bulunamadı.</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Cihaz Adı</th>
+                <th>Hastane</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.DeviceName</td>
+                    <td>@item.Hospital?.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
