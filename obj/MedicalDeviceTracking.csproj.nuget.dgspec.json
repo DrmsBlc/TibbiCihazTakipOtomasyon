@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Durmus BALCI\\OneDrive\\Desktop\\Projelerim\\MedicalDeviceTracking\\MedicalDeviceTracking.csproj": {}
+    "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\MedicalDeviceTracking2\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Durmus BALCI\\OneDrive\\Desktop\\Projelerim\\MedicalDeviceTracking\\MedicalDeviceTracking.csproj": {
+    "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\MedicalDeviceTracking2\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Durmus BALCI\\OneDrive\\Desktop\\Projelerim\\MedicalDeviceTracking\\MedicalDeviceTracking.csproj",
+        "projectUniqueName": "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\MedicalDeviceTracking2\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj",
         "projectName": "MedicalDeviceTracking",
-        "projectPath": "C:\\Users\\Durmus BALCI\\OneDrive\\Desktop\\Projelerim\\MedicalDeviceTracking\\MedicalDeviceTracking.csproj",
-        "packagesPath": "C:\\Users\\Durmus BALCI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Durmus BALCI\\OneDrive\\Desktop\\Projelerim\\MedicalDeviceTracking\\obj\\",
+        "projectPath": "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\MedicalDeviceTracking2\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj",
+        "packagesPath": "C:\\Users\\YENIPC\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\MedicalDeviceTracking2\\TibbiCihazTakipOtomasyon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Durmus BALCI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\YENIPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
