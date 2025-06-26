@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\MedicalDeviceTracking2\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj": {}
+    "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\MedicalDeviceTracking2\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj": {
+    "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\MedicalDeviceTracking2\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj",
+        "projectUniqueName": "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj",
         "projectName": "MedicalDeviceTracking",
-        "projectPath": "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\MedicalDeviceTracking2\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj",
+        "projectPath": "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\TibbiCihazTakipOtomasyon\\MedicalDeviceTracking.csproj",
         "packagesPath": "C:\\Users\\YENIPC\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\MedicalDeviceTracking2\\TibbiCihazTakipOtomasyon\\obj\\",
+        "outputPath": "D:\\Documents\\Desktop\\HTML-CSS-JS\\MedicalDeviceTracking\\TibbiCihazTakipOtomasyon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YENIPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,18 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedicalDeviceTracking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9af86c13ec96d5a63824179e8a94ff172c05d54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c627029bb14e97d03301a3a8dde84187ee010ba5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedicalDeviceTracking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedicalDeviceTracking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
